@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Loader</string>
+    <string name="get_contact">Get To Contact</string>
+    <string name="get_music">Get Music Files</string>
+    <string name="song_name">Song Name</string>
+    <string name="song_artist_name">Song Artist Name</string>
+    <string name="permission_dialog_title">Require Permission</string>
+    <string name="permission_dialog_positive_button">Go to Setting</string>
+    <string name="permission_dialog_negative_button">Cancel</string>
+    <string name="permission_dialog_message_for_contact_read">For get contact list require to contact permission,For give permission click "Go to Setting" </string>
+    <string name="permission_dialog_message_for_music">For get music list require to file access permission,For give permission click "Go to Setting" </string>
+
+    <string name="contact_name">Contact Name</string>
+</resources>
